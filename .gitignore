@@ -1,0 +1,10 @@
+# Security: Do not expose API keys
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Streamlit/VS Code environment
+.vscode/
+.streamlit/
