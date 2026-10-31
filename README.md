@@ -29,5 +29,5 @@ This project was built with engineering maturity and hackathon evaluation metric
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/AthulPBiju/event-planner-ai.git](https://github.com/your-username/event-planner-ai.git)
+git clone [https://github.com/AthulPBiju/event-planner-ai.git](https://github.com/AthulPBiju/event-planner-ai.git)
 cd event-planner-ai
